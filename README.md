@@ -1,5 +1,5 @@
 # kgbdns-pub
-Self-hosted DDNS Service
+Free self-hosted DDNS service
 
 Check out the running version:
 
