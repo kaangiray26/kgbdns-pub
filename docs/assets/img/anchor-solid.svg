@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 593.51098 593.51099"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="anchor-solid.svg"
+   width="593.51099"
+   height="593.51099"
+   inkscape:export-filename="anchor_512x512.png"
+   inkscape:export-xdpi="82.82"
+   inkscape:export-ydpi="82.82"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.261553"
+     inkscape:cx="190.2417"
+     inkscape:cy="289.32592"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+  <path
+     d="m 360.9774,216.75549 c 17.7,0 32,14.3 32,32 0,17.7 -14.3,32 -32,32 h -32 v 208 h 48 c 53,0 96,-43 96,-96 v -6.1 l -7.9,6.2 c -8.5,10.2 -23.7,10.2 -33.1,0 -9.3,-8.5 -9.3,-23.7 0,-33.1 l 56,-56 c 9.4,-9.3 24.6,-9.3 33.1,0 l 56,56 c 10.2,9.4 10.2,24.6 0,33.1 -8.5,10.2 -23.7,10.2 -33.1,0 l -7,-6.2 v 6.1 c 0,88.4 -71.6,160 -160,160 h -160 c -88.4,0 -160.000004,-71.6 -160.000004,-160 v -6.1 l -7.03,6.2 c -9.37,10.2 -24.57,10.2 -33.941,0 -9.3720003,-8.5 -9.3720003,-23.7 0,-33.1 l 56.001,-56 c 9.37,-9.3 24.57,-9.3 33.940004,0 l 55.13,56 c 10.2,9.4 10.2,24.6 0,33.1 -8.5,10.2 -23.7,10.2 -33.1,0 l -7,-6.2 v 6.1 c 0,53 42.1,96 96,96 h 48 v -208 h -32 c -17.7,0 -32,-14.3 -32,-32 0,-17.7 14.3,-32 32,-32 h 10.9 c -25.9,-17.2 -42.9,-46.6 -42.9,-80 0,-53.019997 42.1,-95.999997 96,-95.999997 53,0 96,42.98 96,95.999997 0,33.4 -17.9,62.8 -42.9,80 z m -64,-48 c 17.7,0 32,-14.3 32,-32 0,-17.67 -14.3,-32 -32,-32 -17.7,0 -32,14.33 -32,32 0,17.7 14.3,32 32,32 z"
+     id="path2"
+     style="fill:#ffcd52;fill-opacity:1;stroke:#000000;stroke-width:18;stroke-dasharray:none;stroke-opacity:1" />
+</svg>
