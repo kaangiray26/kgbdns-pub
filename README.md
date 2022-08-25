@@ -1,5 +1,5 @@
 # kgbdns-pub
-Self-hosted DDNS Server
+Self-hosted DDNS Service
 
 Check out the running version:
 
